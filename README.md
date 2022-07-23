@@ -23,12 +23,16 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhamkumar7407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhamkumar7407" height="30" width="40" /></a>
-<a href="https://fb.com/subham.burnwal.980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subham.burnwal.980" height="30" width="40" /></a>
-<a href="https://instagram.com/subham_kr_burnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subham_kr_burnwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TopTechBoySubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anotech solutions" height="30" width="40" /></a>
+  
+ <code><a href="https://linkedin.com/in/subhamkumar7407"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="https://fb.com/subham.burnwal.980"><img width="40px" src="https://img.icons8.com/color/8x/000000/facebook.png" title="Facebook"/></a></code>
+<code><a href="https://instagram.com/subham_kr_burnwal"><img width="40px" src="https://img.icons8.com/color/8x/000000/instagram.png" title="Instagram"/></a></code>
+<code><a href="mailto:shuvamkumar2015@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.youtube.com/c/TopTechBoySubham"><img width="40px" src="https://img.icons8.com/fluent/48/000000/youtube.png" title="Youtube"/></a></code>
+
+
 </p>
 
 <h3 align="left">🔧 Languages and Frameworks:</h3>
